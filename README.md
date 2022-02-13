@@ -11,6 +11,7 @@ Therefore, Kayak Marketing Team would like to create an application that will re
 
 - Weather
 - Hotels in the area
+
 **The application is able to recommend the best destinations and hotels based on the above variables at any given time.**
 
 ## Deliverables:
